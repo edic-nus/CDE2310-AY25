@@ -17,7 +17,7 @@ The PDR shall include, but is not limited to the following recommend content (no
 : This shall include the teams designed Functional Requirements and Systems Specifications. (note the difference)
 
 **System Architecture and Design**
-: Present major subsystems represented by block diagram and integration links <span style="color: red"> (IT IS POINTLESS IF THE PANEL CANNOT SEE WHAT IS BEING PRESENTED ESPECIALLY FOR COMPLICATED DIAGRAMS SQUEEZED INTO 1 SLIDE) </span>. Which shall include
+: Present major subsystems represented by block diagram and integration links @@ (IT IS POINTLESS IF THE PANEL CANNOT SEE WHAT IS BEING PRESENTED ESPECIALLY FOR COMPLICATED DIAGRAMS SQUEEZED INTO 1 SLIDE).@@ Which shall include
 - Software algorithm design and logic diagram
 - Electrical & Electronics Design and Power Budget
 - Mechanical CAD, Fabrication and assembly plan
