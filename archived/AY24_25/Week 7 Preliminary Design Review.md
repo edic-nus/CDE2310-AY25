@@ -2,8 +2,8 @@
 Each team will be assigned 15 minutes to present a PDR to the panel. The PDR shall detail the plan to execute the mission, and a high level technical brefing enough for the panel to concur that the proposed design is sound and feasible. 
 
 ## Presentation Format
-The presentation shall take place in Studio 2 during the Tuesday and Thursday of Week 7 AY25/26. Presentation slots will be assigned in G2 session. G1-6 -> Tues, G7-13 -> Thurs.
-Teams are allocated 30 minutes, which is broken down to 15 minutes presentation + 10 mins Q&A from the teaching team (and about 5 mins for group changeover)
+The presentation shall take place in Studio 2 during the Tuesday and Thursday of Week 7 AY24/25. Presentation slots will be assigned in G2 session. G1-6 -> Tues, G7-13 -> Thurs.
+Teams are allocated 30 minutes, which is broken down to 15 minutes presentation + 10 mins Q&A from the teaching team. 
 
 ### PDR Content
 Given time constrain and limitations, teams can skip introduction and regurgitation of the mission document with the assumption that the panel is well aware of the team's profile and mission document.
@@ -17,11 +17,7 @@ The PDR shall include, but is not limited to the following recommend content (no
 : This shall include the teams designed Functional Requirements and Systems Specifications. (note the difference)
 
 **System Architecture and Design**
-: Present major subsystems represented by block diagram and integration links 
-**⚠️ CRITICAL NOTE:**  
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `(IT IS POINTLESS IF THE PANEL CANNOT SEE WHAT IS BEING PRESENTED ESPECIALLY FOR COMPLICATED DIAGRAMS SQUEEZED INTO 1 SLIDE!)` ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
-
-- Design documents shall include:
+: Present major subsystems represented by block diagram and integration links. Which shall include
 - Software algorithm design and logic diagram
 - Electrical & Electronics Design and Power Budget
 - Mechanical CAD, Fabrication and assembly plan
